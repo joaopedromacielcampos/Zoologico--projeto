@@ -1,0 +1,14 @@
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.AssemblyInfoInputs.cache
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.AssemblyInfo.cs
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.csproj.CoreCompileInputs.cache
+/home/joao/Zoologico/bin/Debug/net8.0/Zoologico
+/home/joao/Zoologico/bin/Debug/net8.0/Zoologico.deps.json
+/home/joao/Zoologico/bin/Debug/net8.0/Zoologico.runtimeconfig.json
+/home/joao/Zoologico/bin/Debug/net8.0/Zoologico.dll
+/home/joao/Zoologico/bin/Debug/net8.0/Zoologico.pdb
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.dll
+/home/joao/Zoologico/obj/Debug/net8.0/refint/Zoologico.dll
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.pdb
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.genruntimeconfig.cache
+/home/joao/Zoologico/obj/Debug/net8.0/ref/Zoologico.dll
