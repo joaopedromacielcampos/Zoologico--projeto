@@ -12,3 +12,4 @@
 /home/joao/Zoologico/obj/Debug/net8.0/Zoologico.pdb
 /home/joao/Zoologico/obj/Debug/net8.0/Zoologico.genruntimeconfig.cache
 /home/joao/Zoologico/obj/Debug/net8.0/ref/Zoologico.dll
+/home/joao/Zoologico/obj/Debug/net8.0/Zoologico.sourcelink.json
